@@ -1,0 +1,19 @@
+
+# 忽略Xcode用户配置（强烈建议）
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+UserInterfaceState.xcuserstate
+xcuserdata/
+
+# 忽略编译产物
+DerivedData/
+Build/
+*.o
+
+# 忽略CocoaPods相关（推荐忽略，用Podfile.lock锁定版本）
+Pods/
+
+# 忽略敏感信息
+.idea/          # 第三方IDE配置
+*.secrets       # 包含密钥或密码的文件
+*.pem
