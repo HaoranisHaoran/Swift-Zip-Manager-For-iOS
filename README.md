@@ -31,7 +31,7 @@ HaoranisHaoran(HaoranTech)
 
 💻 其他版本
 
-Swift Zip Manager：为macOS设计的归档管理器 （https://github.com/HaoranisHaoran/Swift-Zip-Manager）
+Swift Zip Manager：为macOS设计的归档管理器 （ https://github.com/HaoranisHaoran/Swift-Zip-Manager ）
 C# Zip Manager：Swift Zip Manager的衍生产品，正在开发中
 
 🔗 下载
